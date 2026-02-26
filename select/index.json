@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "紡",
+  "base_artist": "171",
+  "createdAt": "2026-02-26T02:02:42.136007Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "紡",
+      "artist": "171",
+      "has_synced": false,
+      "path": "select/pl_01_紡_171.txt"
+    }
+  ]
+}
